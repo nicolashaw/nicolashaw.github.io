@@ -1,2 +1,2 @@
 # Testing including images in posts
-![Test image](images/test.jpg)
+![Test image](images/MrBean2024.jpg)
