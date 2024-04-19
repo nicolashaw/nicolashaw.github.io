@@ -1,4 +1,4 @@
-# Level 1 Heading
+# Testing: Table of Contents
 This is the beginning of paragraph one.
 
 1. TOC
