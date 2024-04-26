@@ -1,5 +1,6 @@
 ## Challenges with Assignment 2
-1. TOC {:toc}
+TOC {:toc}
+
 # Question 1
 GUI for fingerprint recognition Jupyter notebook:
 - Enrolling a fingerprint and associating a name:
