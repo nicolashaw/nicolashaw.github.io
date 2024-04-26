@@ -4,7 +4,7 @@ TOC {:toc}
 GUI for fingerprint recognition Jupyter notebook:
 - Enrolling a fingerprint and associating a name:
 
-  I think my current implamentation fulfills this requirement.
+  I think my current implementation fulfills this requirement.
   
 - Storing the template in a file/database:
 
