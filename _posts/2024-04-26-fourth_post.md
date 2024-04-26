@@ -1,7 +1,8 @@
 ## Challenges with Assignment 2
 
 Current challenges I am facing with Assignment 2 of ELEC4630:
-1. TOC {:toc}
+1. TOC
+{:toc}
 
 # Question 1
 GUI for fingerprint recognition Jupyter notebook:
