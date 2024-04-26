@@ -1,8 +1,9 @@
-### Challenges with Assignment 2
-TOC {:toc}
+## Challenges with Assignment 2
 
-## Question 1
-# GUI for fingerprint recognition Jupyter notebook:
+1. TOC {:toc}
+
+# Question 1
+GUI for fingerprint recognition Jupyter notebook:
 - Enrolling a fingerprint and associating a name:
 
   I think my current implementation fulfills this requirement.
@@ -21,7 +22,6 @@ TOC {:toc}
 
    Working on this but first need to figure out what exactly is to be stored (as mentioned above).
 
-# System analysis:
 - System evaluation:
 
   Can't do this yet.
@@ -32,11 +32,10 @@ TOC {:toc}
 
   Can't do this yet.
 
-## Question 4
+# Question 4
 Jupyter notebook to classify images with the same classes as the CIFAR10 dataset 
 (i.e. airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
 
-# Collecting data
 - Pulling sample images (200) of each of the CIFAR10 classes:
 
 I have adapted the code given within course22/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
@@ -52,7 +51,6 @@ This is only the beginning of the question and it has considerable weight for th
 using a t-SNE or Confusion matrices if I do not have any data to analyse! Nor can I comment on classification accuracy 
 or explain methods used because my methods apparently don't work and I don't know why!
 
-# Analysing system
 - Design a multiclass loss function
 
   Can't do this yet.
